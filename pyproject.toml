@@ -1,0 +1,10 @@
+[project]
+name = "cursor-ai-na-pratica"
+version = "0.1.0"
+description = "Projeto prático com Cursor AI"
+requires-python = ">=3.8"
+dependencies = []
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
